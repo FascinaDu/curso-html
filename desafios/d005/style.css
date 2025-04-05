@@ -1,0 +1,17 @@
+body {
+    
+    font: normal 1.2rem arial;
+}
+
+.sobre-mim {
+    text-align: center;
+    align-items: center;
+}
+
+.redes-sociais {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
